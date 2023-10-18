@@ -1,0 +1,94 @@
+.navbar .nav ul li a{
+text-decoration: none;   
+padding:10px; 
+margin:15px;
+}
+.navbar .nav ul li{
+    display: inline-block;
+   
+}
+.navbar ul{
+    text-align: center;
+    justify-content: center;
+    margin-top:-90px;
+    justify-content: space-evenly;
+    align-content: space-evenly;
+}
+.navbar{
+    background-color: black;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    padding:5px;;
+}
+img{
+    margin-left:120px;
+    margin-top: 12px;
+}
+.alamak{
+    margin-left:1175px;
+    margin-top: 12px;
+}
+.kenapa{
+    margin-left: 1400px;
+    
+}
+/* div{
+    border: 1px solid black;
+    width: 305px;
+    height: 400px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+input{
+    float:right
+}
+div.iklan1{
+    background-color: aqua;
+}
+div .iklan2{
+    border: 1px solid black;
+    width: 305px;
+    height: 400px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.iklan2{
+    background-color: aqua;
+}
+body{
+    display: flex ;
+    justify-content: space-between;
+}
+
+div .iklan3{
+    border: 1px solid black;
+    width: 305px;
+    height: 400px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.iklan3{
+    background-color: aqua;
+} */
